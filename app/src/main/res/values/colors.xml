@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cardColor">#92C8D4</color>
+    <color name="btnColor">#FFBD59</color>
+    <color name="textSigUpCol">#084C5B</color>
+    <color name="textRiderectLogin">#0CC0DF</color>
+</resources>
